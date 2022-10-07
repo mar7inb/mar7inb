@@ -4,7 +4,7 @@
 
 I'm a self-taught developer who enjoys working on projects that make a postive impact. 
 
-- 🔭 I’m currently working on sharpening my JavaScript
+- 🔭 I’m currently working on sharpening my JavaScript and an e-commerce website using React. 
 - 📚 My Tech Stack is: HTML | CSS | JavaScript | Node.js | React.js
 - 👯 I’m looking for a software development internship or job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/martin-b-1362a5223/) 
