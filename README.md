@@ -5,7 +5,7 @@
 I'm a internet-made developer and student from zerotomastery.io who enjoys learning and working on projects that make a postive impact. 
 
 - 🔭 I’m currently working on sharpening my JavaScript, building an e-commerce website using React, and learning data structures and algorithms. 
-- 📚 Tech Stack's I work with: HTML | CSS | JavaScript | React.js | Node.js
+- 📚 Tech Stack's I work with: HTML | CSS | JavaScript | React.js 
 - 👯 I’m looking for a software development internship or job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/martin-b-1362a5223/) 
 
