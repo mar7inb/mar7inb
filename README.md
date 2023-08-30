@@ -9,3 +9,8 @@ I'm a security analyst seeking an entry-level cybersecurity position to apply my
 - 👯 I’m looking for a entry-level security analyst position.  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/martin-b-1362a5223/) 
 
+
+<h2>👨‍💻 My Projects:</h2>
+
+<b>AZURE/CLOUD CYBERSECURITY PROJECTS</b>
+- [SOC + HONEYNET IN AZURE](https://github.com/mar7inb/honeynetsoc)
