@@ -14,3 +14,7 @@ I'm a security analyst seeking an entry-level cybersecurity position to apply my
 
 <b>AZURE/CLOUD CYBERSECURITY PROJECTS</b>
 - [SOC + HONEYNET IN AZURE](https://github.com/mar7inb/honeynetsoc)
+
+<b>ACTIVE DIRECTORY USING VIRTUALBOX/POWERSHELL</b>
+- [AD USING ORACLE V-BOX / POWERSHELL](https://github.com/mar7inb/activedirectory)
+
