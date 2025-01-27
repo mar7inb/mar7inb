@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm an Informatiopn Technology professional with a strong interest in Cybersecurity. Strong commitment to continuous learning and keen eye for detail and passion for safeguarding digital environments. 
+I'm an Information Technology professional with a strong interest in Cybersecurity. Strong commitment to continuous learning and keen eye for detail and passion for safeguarding digital environments. 
 
 - 🔭 I’m currently working on sharpening my cybersecurity skills. 
 - 📚 Microsoft Windows Defender | Windows Firewall | Network traffic analysis using TCPDump and Wireshark | Linux | Python 
