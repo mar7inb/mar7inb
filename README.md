@@ -5,8 +5,7 @@
 I'm an Information Technology professional with a strong interest in Cybersecurity. Strong commitment to continuous learning and keen eye for detail and passion for safeguarding digital environments. 
 
 - 🔭 I’m currently working on sharpening my cybersecurity skills. 
-- 📚 Microsoft Windows Defender | Windows Firewall | Network traffic analysis using TCPDump and Wireshark | Linux | Python 
-- 👯 I’m looking for a entry-level security analyst position.  
+- 📚 Microsoft Windows Defender | Windows Firewall | Network traffic analysis using TCPDump and Wireshark | Linux | Python  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/martin-b-1362a5223/) 
 
 
