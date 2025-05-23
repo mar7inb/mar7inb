@@ -14,9 +14,11 @@ I'm an Information Technology professional with a strong interest in Cybersecuri
 <b>AZURE/CLOUD CYBERSECURITY PROJECTS</b>
 - [SOC + HONEYNET IN AZURE](https://github.com/mar7inb/honeynetsoc)
 
+-<b>TOR USAGE</b>
+- [UNAUTHORIZED TOR USAGE](https://github.com/mar7inb/threat-hunt-scenario-tor)
+
 <b>ACTIVE DIRECTORY USING VIRTUALBOX/POWERSHELL</b>
 - [AD USING ORACLE V-BOX / POWERSHELL](https://github.com/mar7inb/activedirectory)
 
 <b>GOPHISH PHISHING CAMPAIGN</b>
 - [GOPHISH PHISHING CAMPAIGN + VPS](https://github.com/mar7inb/phishingcampaign)
-
